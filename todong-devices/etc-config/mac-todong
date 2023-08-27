@@ -1,0 +1,2 @@
+config mac-todong
+	option eth5 "00:E0:4C:80:73:ED"
